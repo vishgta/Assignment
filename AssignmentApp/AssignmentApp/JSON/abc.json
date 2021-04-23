@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "UserName": "stephen",
+    "Password": "steve",
+    "Domain": "abc.com"
+  },
+  {
+    "Id": 2,
+    "UserName": "jhon",
+    "Password": "jhn",
+    "Domain": "abc.com"
+  },
+  {
+    "Id": 3,
+    "UserName": "ebrahim",
+    "Password": "ebh",
+    "Domain": "abc.com"
+  }
+]
